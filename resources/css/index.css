@@ -1,0 +1,50 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  
+  h1 {
+    color: khaki;
+    font-weight: bold;
+    font-size: 100px;
+    font-family: Helvetica;
+    text-align: center;
+    background-image: url(./../img/pattern.webp);   
+  }
+  
+  
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
+  .price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+  }
+  .brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+  }
+  .frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+  }
+  .paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+  }
